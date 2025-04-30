@@ -2,4 +2,5 @@ A machine learning project to predict housing prices based on various features l
 <br>
 Includes data preprocessing, feature engineering, model training (using linear regression, random forest, or other algorithms), and evaluation.
 <br>
-Built with Python, scikit-learn, pandas, and matplotlib
+Built with 
+<br> Python <br> scikit-learn <br> panda <br> matplotlib <br>
