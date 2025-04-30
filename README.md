@@ -1,4 +1,4 @@
-A **Machine Learning** project to <u>predict housing prices</u> based on various features like location, square footage, number of bedrooms, etc. 
+A **Machine Learning** project to  <u>predict housing prices </u> based on various features like location, square footage, number of bedrooms, etc. 
 <br>
 Includes data preprocessing, feature engineering, model training (using linear regression, random forest, or other algorithms), and evaluation.
 <br>
